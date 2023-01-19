@@ -5,7 +5,7 @@
 
 
 
-## <h1 align="center" id="heading">:wave: Welcome to Software Development for MLOps 101!!</h1>
+## <h1 align="center" id="heading">:wave: Welcome to MLOPS!!</h1>
 
 Welcome to the beginning of your journey to deploying Machine Learning Models! 🎉 Follow these steps to get your development environment teed up! 
 
