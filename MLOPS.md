@@ -1,7 +1,7 @@
-<p align = "center" draggable=”false” ><img src="https://www.norquest.ca/home.aspx" 
+<!-- <p align = "center" draggable=”false” ><img src="link to image here" 
      width="200px"
      height="auto"/>
-</p>
+</p> -->
 
 
 
