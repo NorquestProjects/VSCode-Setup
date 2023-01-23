@@ -1,2 +1,2 @@
-# Norquest
-MLAD Resources
+# MLAD Resources
+Follow Instructions in Markdown file
