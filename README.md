@@ -1,2 +1,2 @@
 # MLAD Resources
-Follow Instructions in Markdown file
+Follow Instructions in Markdown file MLOPS.md
