@@ -199,7 +199,7 @@ Enter the following commands in terminal to setup your environment. When prompte
 <p> </p>
 
 ## <img src="https://octodex.github.com/images/original.png" width=40px/> Let's Make Sure That GitHub is Ready to Roll!
-
+Install Git https://gitforwindows.org/
 If you don't already have one, make an account on [Github](https://github.com/)!  
 
 <details>
