@@ -223,6 +223,7 @@ If you don't already have one, make an account on [Github](https://github.com/)!
      * Mac: `pbcopy < ~/.ssh/id_rsa.pub` 
 
      * Windows (WSL): `clip.exe < ~/.ssh/id_rsa.pub`
+     Note: Your key should be in a Publisher file named id_rsa.pub. Open the publisher file as a notepad to view.
 
      * Linux: `xclip -sel c < ~/.ssh/id_rsa.pub`
   
